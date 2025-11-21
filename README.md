@@ -16,10 +16,6 @@ This project presents an interactive Tableau dashboard created during a **Data T
 
 ![Dashboard Screenshot](https://github.com/user-attachments/assets/b05343cf-d987-4cf4-acc6-a4c501b5b66f)
 
-## View the Dashboard
-
-[Explore the Tableau Dashboard](https://public.tableau.com/views/Global_Health_Project_Dashboard/GlobalHealthInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
 ## Skills Demonstrated
 
 - Tableau Desktop proficiency  
@@ -29,3 +25,7 @@ This project presents an interactive Tableau dashboard created during a **Data T
 - Handling and visualizing complex global health datasets  
 
 This project demonstrates the ability to **transform global health data into actionable insights** through intuitive and interactive Tableau dashboards.
+
+## View the Dashboard
+
+[Explore the Tableau Dashboard](https://public.tableau.com/views/Global_Health_Project_Dashboard/GlobalHealthInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
